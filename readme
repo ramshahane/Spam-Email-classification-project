@@ -1,0 +1,37 @@
+This project is made as a part of Vultr Cloud Innovate Hackathon by Team Nova from KKW Institute of Engineering, Nashik.
+
+This project aims to develop an automated system that classifies incoming emails, identifies spam, and prioritizes emails for better management. Using machine learning algorithms, this project leverages text preprocessing, feature extraction, and classification techniques to achieve accurate and efficient email categorization.
+
+Project Overview
+Institution: K. K. Wagh Institute of Engineering Education and Research
+Department: Computer Engineering
+
+Objectives
+Develop a model to classify emails, separating spam from legitimate messages.
+Prioritize emails based on content, topic classification, and sentiment analysis.
+Improve user productivity by automating email categorization and spam filtering.
+Prerequisites
+Knowledge Requirements
+Machine Learning: Supervised learning, model training, evaluation metrics.
+Natural Language Processing (NLP): Techniques like tokenization, lemmatization, TF-IDF.
+Programming: Proficiency in Python, with experience in libraries such as scikit-learn, pandas, and numpy.
+Version Control: Familiarity with Git.
+Hardware Requirements
+Processor: Intel Core i5 or equivalent
+RAM: Minimum 8 GB (16 GB recommended)
+Disk Space: 100 GB (SSD preferred)
+GPU: Optional, but beneficial
+Software Requirements
+Programming Language: Python 3.6+
+Libraries: scikit-learn, pandas, numpy, nltk, spaCy, matplotlib, seaborn
+IDE: Jupyter Notebook, Visual Studio Code
+Version Control: Git
+Project Structure
+Data Preprocessing: Tokenization, stopword removal, and feature extraction.
+Classification Algorithms:
+Support Vector Machine (SVM): For identifying decision boundaries.
+Random Forest: For robust classification using multiple decision trees.
+K-Nearest Neighbour (KNN): Simple, non-parametric classification.
+Decision Tree: For interpretable and visual classification.
+Evaluation: Precision, recall, and F1 score to assess model effectiveness.
+
